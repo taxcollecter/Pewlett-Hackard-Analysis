@@ -28,4 +28,7 @@ Reviewing the "Total Fare by City type" we confirm that the Urban fares drastica
 ![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/649edbe5251b0a11427f530d0b6f189a042e62d5/Resources/Final_Graph.png)
 
 ## Summary
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 In summary, we've found that the "City type" has a significant impact on the fare value collected by the driver and subsequently the company. We advise the company to prioritize Rural trips as they are more lucrative from a fare perspective. While this is a difficult ask considering the number of rides occurring within the Urban setting, especially from a staffing perspective, the Rural and Suburban areas offer a better ROI.
