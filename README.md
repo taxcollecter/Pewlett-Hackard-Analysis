@@ -16,6 +16,7 @@ To counter the risk of employees retiring without a backfill, there are mentorsh
 ![Count of Mentors](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/6e860078f0c2250604fa9f0e187af0dd98514e18/Resources/countOfMentorsTitles.png)
 
 -- 1549 employees are poised to assist with mentoring and upskilling the remaining employee population
+
 -- The lack of mentors available to support the mentoring and upskilling of potential Managers is concerning. 
 
 ## Summary
