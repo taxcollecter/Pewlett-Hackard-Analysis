@@ -13,7 +13,8 @@ In analyzing the employee data per the ask of Pewlett Hackard, we’ve determine
 
 To counter the risk of employees retiring without a backfill, there are mentorship opportunities available to leverage. Again reviewing the employee data, we’ve found there are 1549 employees that can be tapped to assist with upskilling the next generation of employees. Of the 1549, PH has 381 “Senior Engineers” who could potentially assist with this task. An initial concern is the lack of mentorship availability tied to the “Manager” role. See image below highlighting these numbers. 
 
-![Count of Mentors](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/6e860078f0c2250604fa9f0e187af0dd98514e18/Resources/countOfMentorsTitles.png)
+![Count of Mentors](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/e8d5cd05d9d75da2f2ece1c3dcfb7c848eec1b92/Resources/countOfMentorsTitles.png)
+
 
 -- 1549 employees are poised to assist with mentoring and upskilling the remaining employee population
 
