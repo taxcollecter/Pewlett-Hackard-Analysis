@@ -20,7 +20,7 @@ To counter the risk of employees retiring without a backfill, there are mentorsh
 ## Summary
 In summary, we’ve determined there is an extreme risk to Pewlett Hackard and its productivity due to coming retirements within the employee population. In total 72k+ employees will need to be replaced to continue operations as is. With only 1500 mentors available to train and upskill the remaining population, Pewlett Hackard has its work ahead of it. We suggest that both hiring and mentoring programs should be implemented as soon as possible. Following up on the mentoring program, we suggest focusing on those who have spent the least amount of time with the company and work backwards. In the image below we can see the breakdown of 1500 mentors by their joining year. 
 
-![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/2bc7fc3c7792ab3313bdb1a1dd4be53616d15400/Resources/Summary_DF.png)
+![Mentors by Year](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/7e6f538af8e2edb8f6b24cc597fe4b5d30b9bcc8/Resources/MentorsbyYearJoining.png)
 
  
 To narrow the focus better, we’d suggest running the pilot with those who have joined since 2000. See the breakdown of these mentors by title below.
