@@ -5,7 +5,7 @@ Leveraging Pewlett Hackard’s (PH) employee data, provided to us in CSV files, 
 ## Results
 In analyzing the employee data per the ask of Pewlett Hackard, we’ve determined that there is extreme risk of brain drain due the number of retiring employees. First, the immediate concern is driven by the number of “Senior Engineers” found to be 25,916. Second, on the other end of the spectrum are the retiring Managers found to be only 2. See image below highlighting the number of employees retiring by title. 
 
-![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/2bc7fc3c7792ab3313bdb1a1dd4be53616d15400/Resources/Summary_DF.png)
+![Count of Retiring Titles](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/b399b541080e719b09e6c85be7b53199f0471d5d/Resources/countOfRetiringTitles.png)
 -- Large concern tied to the number of retiring employees.
 -- Of those retiring the biggest risk is tied to the number of Senior Engineers (25,916).
 
