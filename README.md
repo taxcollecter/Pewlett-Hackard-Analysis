@@ -25,5 +25,5 @@ In summary, we’ve determined there is an extreme risk to Pewlett Hackard and i
  
 To narrow the focus better, we’d suggest running the pilot with those who have joined since 2000. See the breakdown of these mentors by title below.
 
-![District Visual](https://github.com/taxcollecter/PyBer_Analysis/blob/2bc7fc3c7792ab3313bdb1a1dd4be53616d15400/Resources/Summary_DF.png)
+![Greater than 2000 Mentors](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/d2c0ed4f0de3214ac0fef205aa15b5d4a7afb1cb/Resources/2000GreaterbyTitle.png)
 
