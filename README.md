@@ -8,6 +8,7 @@ In analyzing the employee data per the ask of Pewlett Hackard, we’ve determine
 ![Count of Retiring Titles](https://github.com/taxcollecter/Pewlett-Hackard-Analysis/blob/b399b541080e719b09e6c85be7b53199f0471d5d/Resources/countOfRetiringTitles.png)
 
 -- Large concern tied to the number of retiring employees.
+
 -- Of those retiring the biggest risk is tied to the number of Senior Engineers (25,916).
 
 To counter the risk of employees retiring without a backfill, there are mentorship opportunities available to leverage. Again reviewing the employee data, we’ve found there are 1549 employees that can be tapped to assist with upskilling the next generation of employees. Of the 1549, PH has 381 “Senior Engineers” who could potentially assist with this task. An initial concern is the lack of mentorship availability tied to the “Manager” role. See image below highlighting these numbers. 
